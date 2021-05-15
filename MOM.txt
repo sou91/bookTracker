@@ -1,0 +1,17 @@
+Dates format dd/mm/yyyy
+12/05/2021 
+
+Node js - 14.17 or higher
+Reactjs - 17.0.2 or higher
+react-bootstrap - 1.6.0
+
+VS studio code plugins
+	1) react snippets
+
+expressjs library for middle ware.
+mongoose is library which has queries with which expressjs uses to access mongo db like CRUD op
+Mongo db
+Need to look into installation. connection to nodejs	
+
+class components or functional components 
+reacts hooks 
